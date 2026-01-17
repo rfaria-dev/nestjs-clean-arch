@@ -1,0 +1,3 @@
+// This rest client file can be used to test HTTP requests.
+// You can use extensions like "REST Client" in VSCode to run these requests.
+GET http://localhost:3000/
